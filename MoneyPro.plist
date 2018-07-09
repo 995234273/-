@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://wx.tjpaytech.com/download/MoneyPro.ipa</string>
+					<string>*****</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://wx.tjpaytech.com/download/Icon@3x.png</string>
+					<string>****</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://wx.tjpaytech.com/download/Icon@2x.png</string>
+					<string>****</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tjstar</string>
+				<string>****</string>
 				<key>bundle-version</key>
-				<string>1.3.0</string>
+				<string>****</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>NB的应用</string>
+				<string>****</string>
 				<key>title</key>
-				<string>有金堂</string>
+				<string>****</string>
 			</dict>
 		</dict>
 	</array>
